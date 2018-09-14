@@ -24,7 +24,7 @@ class SignIn extends React.Component {
 	//This function does a POST request to the server at the /signin domain and submits in JSON what the user typed as their username and password. If the username and password match what is in the database
 	//The server responds with a 'success' header. If a success header is received, the route state is set to home, which takes the user to the homepage.
 	onSubmitSignIn = () => {
-		fetch('http://localhost:3001/signin', {
+		fetch('https://git.heroku.com/fierce-meadow-59360.git/signin', {
 			method: 'post',
 			headers: {'Content-Type': 'application/json'},
 			body: JSON.stringify({

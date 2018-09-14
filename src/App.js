@@ -90,7 +90,7 @@ constructor() {
 
   onButtonSubmit = () => {
     this.setState({imageUrl: this.state.input})
-    fetch('http://localhost:3001/imageurl', {
+    fetch('https://git.heroku.com/fierce-meadow-59360.git/imageurl', {
           method: 'post',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify ({
@@ -100,7 +100,7 @@ constructor() {
     .then(response => response.json())
     .then(response => {
       if (response) { //this if statement updates the user's entry count. It targets the id and then updates it's entry state
-        fetch('http://localhost:3001/image', {
+        fetch('https://git.heroku.com/fierce-meadow-59360.git/image', {
           method: 'put',
           headers: {'Content-Type': 'application/json'},
           body: JSON.stringify ({
