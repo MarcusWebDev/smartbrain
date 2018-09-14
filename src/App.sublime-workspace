@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 2953,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Components/SignIn/SignIn.js",
+			"settings":
+			{
+				"buffer_size": 2919,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/registerServiceWorker.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/index.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/index.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/App.test.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/App.sublime-workspace",
+		"/C/Users/Searing Arrow/Desktop/Udemy/smartBrain/src/App.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/santasHelper/santasHelper.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/awesome-node/hello.txt",
+		"/C/Users/Searing Arrow/Desktop/Udemy/awesome-node/script.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/node/server.js",
+		"/C/Users/Searing Arrow/Desktop/node/package.json",
+		"/C/Users/Searing Arrow/Desktop/node/server.js",
+		"/C/Users/Searing Arrow/Desktop/node/script.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/Register/Register.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/Navigation/Navigation.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/index.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/Logo/Logo.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/Logo/Logo.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/Rank/Rank.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/FaceRecognition/FaceRecognition.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Components/SignIn/SignIn.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/App.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/App.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/facerecognitionbrain/src/Logo.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/components/Scroll.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/components/SearchBox.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/components/card.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/components/ErrorBoundry.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/exercisePromises.js",
+		"/C/Users/Searing Arrow/Desktop/Smash Ultimate Guide Site/package.json",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/components/CardList.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/index.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/App.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/Scroll.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/Components/card.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/containers/App.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/SearchBox.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/CardList.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/card.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/robots.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/index.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/App.css",
+		"/C/Users/Searing Arrow/Desktop/Smash Ultimate Guide Site!/Character Pages/Marth Page/marthPage.css",
+		"/C/Users/Searing Arrow/Desktop/Smash Ultimate Guide Site!/Character Pages/Marth Page/marthPage.html",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/public/index.html",
+		"/C/Users/Searing Arrow/Desktop/style.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy/robofriends/src/app.css",
+		"/C/Users/Searing Arrow/Desktop/Smash Ultimate Guide Site!/marthPage.html",
+		"/C/Users/Searing Arrow/Desktop/Smash Ultimate Guide Site!/marthPage.css",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/robofriends/src/index.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/robofriends/src/robots.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/robofriends/src/card.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/robofriends/src/App.css",
+		"/C/Users/Searing Arrow/Desktop/Projects/Chipotle copy/chipotleHomepage.js",
+		"/C/Users/Searing Arrow/Desktop/Projects/Chipotle copy/chipotleHomepage.css",
+		"/C/Users/Searing Arrow/Desktop/Projects/Chipotle copy/chipotleHomepage.html",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/exercise5.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/exercise5-SOLUTIONS-1.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/exercise4-SOLUTIONS.js",
+		"/C/Users/Searing Arrow/Desktop/Udemy 2018 Web Dev Course/exercise4.js",
+		"/C/Users/Searing Arrow/Desktop/Projects/Aesthetic Food Recipe Site/RecipeSite.js",
+		"/C/Users/Searing Arrow/Desktop/Projects/Aesthetic Food Recipe Site/RecipeSite.css",
+		"/C/Users/Searing Arrow/Desktop/Projects/Aesthetic Food Recipe Site/RecipeSite.html",
+		"/C/Users/Searing Arrow/Desktop/MDN example/Ball Bouncing Practice/BallBounce.js",
+		"/C/Users/Searing Arrow/Desktop/MDN example/Ball Bouncing Practice/BallBounce.css",
+		"/C/Users/Searing Arrow/Desktop/MDN example/Ball Bouncing Practice/BallBounce.html",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/chipotleHomepage.html",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/chipotleHomepage.js",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/chipotleHomepage.css",
+		"/C/Users/Searing Arrow/Desktop/MDN example/Object Basics.html",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/test.js",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/test.css",
+		"/C/Users/Searing Arrow/Desktop/Chipotle copy/test.html",
+		"/C/Users/Searing Arrow/Desktop/MDN example/gallery-start/index.html",
+		"/C/Users/Searing Arrow/Desktop/MDN example/gallery-start/style.css",
+		"/C/Users/Searing Arrow/Desktop/MDN example/gallery-start/main.js",
+		"/C/Users/Searing Arrow/Desktop/Practice1/Ingrids Homepage.js",
+		"/C/Users/Searing Arrow/Desktop/Practice1/Ingrids Homepage.css",
+		"/C/Users/Searing Arrow/Desktop/Practice1/Ingrids Homepage.html",
+		"/C/Users/Searing Arrow/Desktop/Practice1/Ingrids Homepage",
+		"/C/Users/Searing Arrow/Desktop/Practice1/BackgroundRandomColorDemo.html",
+		"/C/Users/Searing Arrow/Desktop/Practice1/RandomNumberGameDemo",
+		"/C/Users/Searing Arrow/Desktop/Practice1/RandomNumberGameDemo.html",
+		"/C/Users/Searing Arrow/Documents/BrittProject/readme.md"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onChange"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1529,
+								1531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Components/SignIn/SignIn.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
